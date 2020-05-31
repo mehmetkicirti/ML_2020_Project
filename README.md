@@ -8,3 +8,4 @@ Predicted undefined y_values in last 20 values.
  * Polynomial Regression
  * Random Forest Regression
  * Support Vector Machine
+ * Decision Tree
